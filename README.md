@@ -1,4 +1,7 @@
 # falcon-ui-rewrite
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/amilajack/falcon-ui-rewrite.svg)](https://greenkeeper.io/)
+
 ![Falcon Demo Rewrite](/internals/img/falcon-demo.png)
 
 
